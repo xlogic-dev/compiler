@@ -3,7 +3,6 @@ name = "xlogic"
 version = "0.0.0"
 edition = "2021"
 license = "Apache-2.0"
-license-file = "LICENSE"
 authors = ["Tymoteusz Blazejczyk <tymoteusz.blazejczyk@tymonx.com>"]
 description = "Package for developing, building, testing, packaging and deploying FPGA and ASIC projects"
 repository = "https://gitlab.com/xlogic/compiler"
