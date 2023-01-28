@@ -1,0 +1,17 @@
+[package]
+name = "xlogic"
+version = "0.0.0"
+edition = "2021"
+license = "Apache-2.0"
+license-file = "LICENSE"
+authors = ["Tymoteusz Blazejczyk <tymoteusz.blazejczyk@tymonx.com>"]
+description = "Package for developing, building, testing, packaging and deploying FPGA and ASIC projects"
+repository = "https://gitlab.com/xlogic/compiler"
+readme = "README.md"
+homepage = "https://xlogic.dev"
+documentation = "https://docs.xlogic.dev"
+categories = ["command-line-utilities", "development-tools::build-utils", "development-tools", "compilers", "config"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
